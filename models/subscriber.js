@@ -37,3 +37,4 @@ subscriberSchema.methods.getInfo = function() {
 };
 
 module.exports = mongoose.model("Subscriber", subscriberSchema);
+
